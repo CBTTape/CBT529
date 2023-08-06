@@ -1,0 +1,45 @@
+2023-08-06 05:04:01.443668 - Initialized conversion of CBT529
+2023-08-06 05:04:01.902125 - Received CBT.V505.FILE529.PDS from FILE529.XMI 
+2023-08-06 05:04:01.904751 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE529.PDS, moved to PDS/$$$#DATE
+2023-08-06 05:04:01.906058 - Found $$$DOC.txt (text/plain) in CBT.V505.FILE529.PDS, moved to PDS/$$$DOC
+2023-08-06 05:04:01.907133 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE529.PDS, moved to PDS/$$NOTE1
+2023-08-06 05:04:01.908539 - Found @FILE529.txt (text/plain) in CBT.V505.FILE529.PDS, moved to PDS/@FILE529
+2023-08-06 05:04:01.909712 - Found @UPDATES.txt (text/plain) in CBT.V505.FILE529.PDS, moved to PDS/@UPDATES
+2023-08-06 05:04:01.910735 - Found AESDCRYP.txt (text/plain) in CBT.V505.FILE529.PDS, moved to PDS/AESDCRYP
+2023-08-06 05:04:01.911896 - Found CATLIST.txt (text/plain) in CBT.V505.FILE529.PDS, moved to PDS/CATLIST
+2023-08-06 05:04:01.911908 - Found CICSMTH.bin containing application/octet-stream, moved to PDS/CICSMTH
+2023-08-06 05:04:01.914098 - Found CICSMTHJ.jcl (text/plain) in CBT.V505.FILE529.PDS, moved to PDS/CICSMTHJ
+2023-08-06 05:04:01.914108 - Found CICSMTH5.bin containing application/octet-stream, moved to PDS/CICSMTH5
+2023-08-06 05:04:01.915224 - Found CICSMTH6.bin containing application/octet-stream, moved to PDS/CICSMTH6
+2023-08-06 05:04:01.917335 - Found CICSSMF.txt (text/plain) in CBT.V505.FILE529.PDS, moved to PDS/CICSSMF
+2023-08-06 05:04:01.918308 - Found CICSSMFJ.jcl (text/plain) in CBT.V505.FILE529.PDS, moved to PDS/CICSSMFJ
+2023-08-06 05:04:01.919423 - Found CICSSMF4.txt (text/plain) in CBT.V505.FILE529.PDS, moved to PDS/CICSSMF4
+2023-08-06 05:04:01.920449 - Found CICSSMF5.txt (text/plain) in CBT.V505.FILE529.PDS, moved to PDS/CICSSMF5
+2023-08-06 05:04:01.920460 - Found CICSYRLY.bin containing application/octet-stream, moved to PDS/CICSYRLY
+2023-08-06 05:04:01.922759 - Found CISIZE.txt (text/plain) in CBT.V505.FILE529.PDS, moved to PDS/CISIZE
+2023-08-06 05:04:01.923695 - Found DFHCFS6D.txt (text/plain) in CBT.V505.FILE529.PDS, moved to PDS/DFHCFS6D
+2023-08-06 05:04:01.924634 - Found DFHCFS7D.txt (text/plain) in CBT.V505.FILE529.PDS, moved to PDS/DFHCFS7D
+2023-08-06 05:04:01.925555 - Found DFHCFS8D.txt (text/plain) in CBT.V505.FILE529.PDS, moved to PDS/DFHCFS8D
+2023-08-06 05:04:01.926603 - Found DFHCFS9D.txt (text/plain) in CBT.V505.FILE529.PDS, moved to PDS/DFHCFS9D
+2023-08-06 05:04:01.927642 - Found DFHNCS4D.txt (text/plain) in CBT.V505.FILE529.PDS, moved to PDS/DFHNCS4D
+2023-08-06 05:04:01.928623 - Found DFHNCS5D.txt (text/plain) in CBT.V505.FILE529.PDS, moved to PDS/DFHNCS5D
+2023-08-06 05:04:01.928635 - Found DFHSMFDS.bin containing application/octet-stream, moved to PDS/DFHSMFDS
+2023-08-06 05:04:01.930959 - Found DFHXQS1D.txt (text/plain) in CBT.V505.FILE529.PDS, moved to PDS/DFHXQS1D
+2023-08-06 05:04:01.931948 - Found DFHXQS2D.txt (text/plain) in CBT.V505.FILE529.PDS, moved to PDS/DFHXQS2D
+2023-08-06 05:04:01.932948 - Found DFHXQS3D.txt (text/plain) in CBT.V505.FILE529.PDS, moved to PDS/DFHXQS3D
+2023-08-06 05:04:01.933934 - Found G207ASM.jcl (text/plain) in CBT.V505.FILE529.PDS, moved to PDS/G207ASM
+2023-08-06 05:04:01.934932 - Found G207DCAN.txt (text/plain) in CBT.V505.FILE529.PDS, moved to PDS/G207DCAN
+2023-08-06 05:04:01.935842 - Found G207DOCS.txt (text/plain) in CBT.V505.FILE529.PDS, moved to PDS/G207DOCS
+2023-08-06 05:04:01.936948 - Found ICCFMEMB.txt (text/plain) in CBT.V505.FILE529.PDS, moved to PDS/ICCFMEMB
+2023-08-06 05:04:01.937952 - Found SETDUMP.txt (text/plain) in CBT.V505.FILE529.PDS, moved to PDS/SETDUMP
+2023-08-06 05:04:01.939014 - Found SMFLST04.txt (text/plain) in CBT.V505.FILE529.PDS, moved to PDS/SMFLST04
+2023-08-06 05:04:01.939984 - Found SMFLST06.txt (text/plain) in CBT.V505.FILE529.PDS, moved to PDS/SMFLST06
+2023-08-06 05:04:01.940958 - Found SMFLST14.txt (text/plain) in CBT.V505.FILE529.PDS, moved to PDS/SMFLST14
+2023-08-06 05:04:01.942043 - Found SMFLST17.txt (text/plain) in CBT.V505.FILE529.PDS, moved to PDS/SMFLST17
+2023-08-06 05:04:01.943038 - Found SMFLST18.txt (text/plain) in CBT.V505.FILE529.PDS, moved to PDS/SMFLST18
+2023-08-06 05:04:01.944077 - Found SMFLST30.txt (text/plain) in CBT.V505.FILE529.PDS, moved to PDS/SMFLST30
+2023-08-06 05:04:01.945110 - Found SMFLST6.txt (text/plain) in CBT.V505.FILE529.PDS, moved to PDS/SMFLST6
+2023-08-06 05:04:01.946094 - Found SMFLST60.txt (text/plain) in CBT.V505.FILE529.PDS, moved to PDS/SMFLST60
+2023-08-06 05:04:01.947165 - Found SMFLST61.txt (text/plain) in CBT.V505.FILE529.PDS, moved to PDS/SMFLST61
+2023-08-06 05:04:01.948175 - Found SMFLST64.txt (text/plain) in CBT.V505.FILE529.PDS, moved to PDS/SMFLST64
+2023-08-06 05:04:01.949218 - Found SMFLST65.txt (text/plain) in CBT.V505.FILE529.PDS, moved to PDS/SMFLST65
